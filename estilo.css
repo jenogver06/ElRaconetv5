@@ -230,6 +230,10 @@ img.imagenindex{float:right;
     margin-left: 50px;;
 }
 
+img.cerveza {
+   height: 500px ;
+   width: 150px ;
+}
 
 /*Aqui termina el Main*/
 
@@ -268,17 +272,20 @@ footer ul li {
     width: 200px;
     height:200px;
     padding: 30px;
+    
 }
 
 .logo3 {
         width: 200px;
         height:200px;
-        padding: 30px;
+        padding: 10px;
+        margin-left: 30px;
         }
 
         
 .logo4 {
-    width: 200px;
-    height:200px;
-    padding: 30px;
+    width: 250px;
+    height:250px;
+    padding: 20px;
+    margin-left: 30px;
     }
