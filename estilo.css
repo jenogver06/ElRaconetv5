@@ -28,34 +28,6 @@ font-style: italic;
     height:200px;
 }
 
-.logo1{
-    float: left;
-    width: 350px;
-    height: 190px;
-    margin-left: 100px;
-}
-
-.logo2{
-    width: 200px;
-    height:200px;
-    margin-right: 1050px;
-}
-
-.logo3 {
-        margin-top: -500px;
-        width: 200px;
-        height:200px;
-        margin-left:50px;
-        }
-
-        
-.logo4 {
-    margin-top: -500px;
-    width: 200px;
-    height:200px;
-    margin-left:600px;
-    }
-
 .logoins {
     width: 50px;
     height:50px;
@@ -271,7 +243,8 @@ img.imagenindex{float:right;
 footer{
     background-color:#333;
     padding-top:30px;
-    background-image: url(img/madera.jpg);
+    background-image: url(img/floor.jpg);
+    background-size: 100%;
    }
    footer ul{list-style:none;
 }
@@ -279,3 +252,33 @@ footer{
 class.logo {
     width:150px;
 }
+
+footer ul li {
+    display: inline-block;
+}
+
+.logo1{
+    float: left;
+    width: 350px;
+    height: 190px;
+    padding: 30px;
+}
+
+.logo2{
+    width: 200px;
+    height:200px;
+    padding: 30px;
+}
+
+.logo3 {
+        width: 200px;
+        height:200px;
+        padding: 30px;
+        }
+
+        
+.logo4 {
+    width: 200px;
+    height:200px;
+    padding: 30px;
+    }
